@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,unit_price,currency,active_flag
+P000001,Football,Sports,Puma,52.56,GBP,Y
+P000002,Dumbbells,Sports,Adidas,33.89,GBP,Y
+P000003,Dining Table,Home,Bosch,1383.72,GBP,Y
+P000004,Dress,Clothing,Zara,21.39,GBP,Y
+P000005,Monitor,Electronics,LG,1269.29,USD,Y
+P000006,Sneakers,Clothing,Puma,105.02,EUR,Y
+P000007,Chair,Home,IKEA,462.69,USD,Y
+P000008,Coffee Machine,Home,Dyson,465.14,GBP,Y
+P000009,Jeans,Clothing,Zara,209.87,GBP,Y
+P000010,Jacket,Clothing,Zara,24.31,GBP,Y
+P000011,Jeans,Clothing,Nike,273.21,EUR,Y
+P000012,Body Lotion,Beauty,Nivea,98.41,USD,Y
+P000013,Coffee Machine,Home,Siemens,626.06,EUR,Y
+P000014,T-Shirt,Clothing,Adidas,153.82,USD,Y
+P000015,Tablet,Electronics,Samsung,980.42,USD,Y
+P000016,Coffee Machine,Home,Bosch,1071.1,GBP,Y
+P000017,Jacket,Clothing,Zara,28.05,USD,Y
+P000018,Chair,Home,Bosch,1463.0,EUR,Y
+P000019,Perfume,Beauty,Garnier,166.46,USD,Y
+P000020,Keyboard,Electronics,Samsung,1449.23,EUR,Y
+P000021,Shampoo,Beauty,Garnier,212.59,USD,Y
+P000022,Dress,Clothing,Zara,24.1,GBP,Y
+P000023,Lipstick,Beauty,Garnier,64.65,USD,Y
+P000024,Desk,Home,IKEA,1493.34,USD,Y
+P000025,Vacuum Cleaner,Home,Siemens,1366.88,EUR,Y
+P000026,Smartphone,Electronics,Apple,1002.98,USD,N
+P000027,Chair,Home,IKEA,639.25,GBP,Y
+P000028,Shampoo,Beauty,Maybelline,41.15,EUR,Y
+P000029,Lipstick,Beauty,Nivea,245.74,EUR,N
+P000030,Dining Table,Home,IKEA,1074.59,EUR,Y
+P000031,T-Shirt,Clothing,Adidas,143.25,USD,Y
+P000032,T-Shirt,Clothing,Adidas,231.75,EUR,N
+P000033,Running Shoes,Sports,Garmin,114.76,GBP,Y
+P000034,Monitor,Electronics,Sony,152.93,GBP,Y
+P000035,Sneakers,Clothing,H&M,178.74,USD,N
+P000036,Shampoo,Beauty,Nivea,163.04,GBP,Y
+P000037,Chair,Home,Siemens,223.47,GBP,N
+P000038,Desk,Home,Siemens,536.27,USD,Y
+P000039,Desk,Home,Dyson,642.49,EUR,Y
+P000040,Perfume,Beauty,L'Oreal,110.02,EUR,Y
+P000041,Tablet,Electronics,Samsung,482.59,EUR,Y
+P000042,Dining Table,Home,Siemens,331.37,GBP,Y
+P000043,Jeans,Clothing,Zara,302.13,USD,Y
+P000044,Sneakers,Clothing,Zara,32.61,USD,Y
+P000045,Face Cream,Beauty,Dove,57.45,GBP,Y
+P000046,Tablet,Electronics,Lenovo,860.59,USD,N
+P000047,Dress,Clothing,Zara,16.15,USD,Y
+P000048,Mouse,Electronics,LG,2024.44,USD,Y
+P000049,Dress,Clothing,Adidas,124.83,USD,N
+P000050,Jeans,Clothing,Adidas,224.93,GBP,Y
+P000051,T-Shirt,Clothing,Puma,276.07,GBP,N
+P000052,Dress,Clothing,Puma,69.55,USD,Y
+P000053,Desk,Home,Siemens,1037.15,GBP,Y
+P000054,Yoga Mat,Sports,Nike,593.75,USD,N
+P000055,Mouse,Electronics,Apple,1589.95,GBP,Y
+P000056,Perfume,Beauty,Maybelline,22.09,EUR,Y
+P000057,Jacket,Clothing,Nike,288.52,GBP,Y
+P000058,Laptop,Electronics,Samsung,1908.91,GBP,Y
+P000059,Yoga Mat,Sports,Reebok,684.43,EUR,Y
+P000060,Coffee Machine,Home,Siemens,1206.32,USD,Y
+P000061,Body Lotion,Beauty,Garnier,153.68,EUR,Y
+P000062,Face Cream,Beauty,Dove,136.52,USD,Y
+P000063,Sneakers,Clothing,H&M,57.02,EUR,Y
+P000064,Dumbbells,Sports,Reebok,106.91,USD,Y
+P000065,T-Shirt,Clothing,Zara,217.36,EUR,Y
+P000066,T-Shirt,Clothing,Adidas,312.45,USD,Y
+P000067,Headphones,Electronics,LG,2051.13,EUR,Y
+P000068,Smartphone,Electronics,Lenovo,1041.29,EUR,Y
+P000069,Mouse,Electronics,Lenovo,356.32,GBP,Y
+P000070,Coffee Machine,Home,Dyson,238.92,EUR,Y
+P000071,Sneakers,Clothing,H&M,76.8,USD,Y
+P000072,Fitness Tracker,Sports,Garmin,156.6,USD,Y
+P000073,Dress,Clothing,Puma,172.75,GBP,Y
+P000074,Dumbbells,Sports,Adidas,529.68,GBP,Y
+P000075,T-Shirt,Clothing,Nike,222.61,EUR,Y
+P000076,Lipstick,Beauty,Dove,124.79,USD,Y
+P000077,Jacket,Clothing,H&M,162.74,USD,N
+P000078,Running Shoes,Sports,Adidas,650.74,EUR,Y
+P000079,Sneakers,Clothing,Nike,169.95,EUR,Y
+P000080,Laptop,Electronics,Sony,195.17,USD,Y
+P000081,Jacket,Clothing,Nike,154.16,USD,Y
+P000082,Headphones,Electronics,Samsung,899.9,EUR,Y
+P000083,T-Shirt,Clothing,Nike,98.97,USD,Y
+P000084,Chair,Home,Dyson,476.08,EUR,Y
+P000085,Sneakers,Clothing,Zara,113.02,EUR,Y
+P000086,Headphones,Electronics,Sony,1825.86,USD,Y
+P000087,Perfume,Beauty,Dove,121.29,USD,Y
+P000088,Fitness Tracker,Sports,Garmin,253.02,EUR,Y
+P000089,Fitness Tracker,Sports,Nike,70.75,USD,Y
+P000090,Dress,Clothing,Nike,246.85,EUR,Y
+P000091,Coffee Machine,Home,Philips,1463.23,USD,Y
+P000092,Face Cream,Beauty,Nivea,147.26,GBP,N
+P000093,Dumbbells,Sports,Puma,12.26,GBP,Y
+P000094,Dining Table,Home,Bosch,259.35,GBP,Y
+P000095,Face Cream,Beauty,Maybelline,213.76,EUR,Y
+P000096,Vacuum Cleaner,Home,Bosch,858.51,USD,N
+P000097,Sneakers,Clothing,H&M,279.07,EUR,Y
+P000098,Fitness Tracker,Sports,Garmin,313.03,USD,Y
+P000099,Sneakers,Clothing,Nike,296.57,EUR,Y
+P000100,Tablet,Electronics,Lenovo,1022.84,USD,Y
+P000101,Vacuum Cleaner,Home,Siemens,1230.45,GBP,Y
+P000102,Coffee Machine,Home,Philips,1461.97,EUR,Y
+P000103,Fitness Tracker,Sports,Garmin,216.7,GBP,Y
+P000104,Perfume,Beauty,L'Oreal,228.45,USD,N
+P000105,Dress,Clothing,Nike,284.88,EUR,Y
+P000106,Football,Sports,Nike,446.96,USD,Y
+P000107,T-Shirt,Clothing,Puma,132.89,USD,Y
+P000108,Chair,Home,Philips,337.15,EUR,Y
+P000109,Face Cream,Beauty,Maybelline,110.0,EUR,Y
+P000110,Mouse,Electronics,Lenovo,277.97,USD,Y
+P000111,Shampoo,Beauty,Garnier,193.68,EUR,Y
+P000112,Jeans,Clothing,Zara,29.95,USD,Y
+P000113,Desk,Home,Bosch,922.67,GBP,Y
+P000114,Dining Table,Home,Philips,1058.82,USD,Y
+P000115,Vacuum Cleaner,Home,Philips,596.75,GBP,Y
+P000116,Yoga Mat,Sports,Puma,329.0,GBP,Y
+P000117,Monitor,Electronics,Lenovo,1359.76,GBP,Y
+P000118,Body Lotion,Beauty,Dove,178.74,GBP,Y
+P000119,Lipstick,Beauty,Maybelline,83.4,USD,Y
+P000120,Monitor,Electronics,LG,708.65,EUR,Y
+P000121,Mouse,Electronics,Samsung,1763.62,EUR,Y
+P000122,Perfume,Beauty,Maybelline,44.85,GBP,Y
+P000123,Headphones,Electronics,Apple,767.46,EUR,N
+P000124,T-Shirt,Clothing,H&M,198.32,EUR,Y
+P000125,Coffee Machine,Home,Bosch,576.35,USD,Y
+P000126,Desk,Home,Bosch,1187.23,GBP,Y
+P000127,T-Shirt,Clothing,Puma,77.49,EUR,Y
+P000128,Dumbbells,Sports,Garmin,335.92,USD,Y
+P000129,Running Shoes,Sports,Reebok,368.6,EUR,N
+P000130,Face Cream,Beauty,L'Oreal,152.63,USD,Y
+P000131,Body Lotion,Beauty,L'Oreal,56.69,USD,Y
+P000132,Laptop,Electronics,LG,1151.78,EUR,Y
+P000133,Vacuum Cleaner,Home,Philips,861.33,GBP,Y
+P000134,Monitor,Electronics,LG,809.42,GBP,Y
+P000135,Yoga Mat,Sports,Adidas,146.46,EUR,Y
+P000136,Running Shoes,Sports,Garmin,276.05,GBP,Y
+P000137,Fitness Tracker,Sports,Nike,194.42,EUR,Y
+P000138,Mouse,Electronics,LG,1963.89,EUR,Y
+P000139,Headphones,Electronics,Lenovo,2079.64,USD,N
+P000140,Jeans,Clothing,Puma,220.57,EUR,Y
+P000141,Chair,Home,Philips,724.82,GBP,N
+P000142,Dress,Clothing,H&M,71.49,EUR,Y
+P000143,Keyboard,Electronics,LG,1277.92,EUR,Y
+P000144,Smartphone,Electronics,Apple,252.09,GBP,Y
+P000145,Yoga Mat,Sports,Puma,408.27,USD,N
+P000146,Fitness Tracker,Sports,Puma,512.19,EUR,Y
+P000147,Coffee Machine,Home,Dyson,1014.09,GBP,Y
+P000148,Laptop,Electronics,Apple,585.63,USD,Y
+P000149,Headphones,Electronics,Lenovo,1127.33,EUR,Y
+P000150,Dining Table,Home,Bosch,35.87,USD,Y
+P000151,Desk,Home,Bosch,1388.94,USD,Y
+P000152,Jeans,Clothing,Zara,88.18,EUR,Y
+P000153,Lipstick,Beauty,Maybelline,185.82,USD,Y
+P000154,Tablet,Electronics,Sony,350.18,USD,Y
+P000155,Vacuum Cleaner,Home,IKEA,179.4,GBP,Y
+P000156,Dumbbells,Sports,Garmin,678.03,EUR,Y
+P000157,T-Shirt,Clothing,Zara,125.47,USD,Y
+P000158,Jacket,Clothing,Nike,99.43,EUR,N
+P000159,T-Shirt,Clothing,Adidas,73.62,EUR,Y
+P000160,Sneakers,Clothing,Zara,21.4,GBP,N
+P000161,Dining Table,Home,Siemens,1007.28,USD,Y
+P000162,Jacket,Clothing,Puma,225.19,EUR,Y
+P000163,Mouse,Electronics,LG,482.89,GBP,Y
+P000164,Body Lotion,Beauty,L'Oreal,71.94,GBP,Y
+P000165,Face Cream,Beauty,Maybelline,231.68,EUR,Y
+P000166,Vacuum Cleaner,Home,IKEA,1227.51,USD,Y
+P000167,Sneakers,Clothing,Puma,65.8,GBP,Y
+P000168,Running Shoes,Sports,Reebok,519.99,EUR,Y
+P000169,Yoga Mat,Sports,Nike,394.11,GBP,Y
+P000170,Face Cream,Beauty,L'Oreal,180.85,EUR,Y
+P000171,Dining Table,Home,Philips,592.33,EUR,Y
+P000172,Football,Sports,Nike,161.25,GBP,N
+P000173,Desk,Home,Bosch,1105.08,USD,Y
+P000174,Lipstick,Beauty,Garnier,9.83,EUR,Y
+P000175,Face Cream,Beauty,L'Oreal,203.27,USD,Y
+P000176,Tablet,Electronics,Lenovo,74.04,EUR,Y
+P000177,Headphones,Electronics,Lenovo,1394.2,EUR,Y
+P000178,Chair,Home,Siemens,95.3,USD,Y
+P000179,Jeans,Clothing,Adidas,343.24,EUR,Y
+P000180,Perfume,Beauty,L'Oreal,141.71,GBP,Y
+P000181,Lipstick,Beauty,L'Oreal,208.15,USD,Y
+P000182,Headphones,Electronics,Sony,945.95,USD,Y
+P000183,Body Lotion,Beauty,Dove,86.07,EUR,Y
+P000184,Monitor,Electronics,LG,310.11,GBP,Y
+P000185,Shampoo,Beauty,Maybelline,8.09,GBP,Y
+P000186,Body Lotion,Beauty,Garnier,11.16,GBP,Y
+P000187,Dumbbells,Sports,Puma,214.01,GBP,Y
+P000188,Dumbbells,Sports,Garmin,10.79,EUR,Y
+P000189,Jeans,Clothing,Nike,25.03,EUR,Y
+P000190,Running Shoes,Sports,Puma,630.15,GBP,Y
+P000191,Running Shoes,Sports,Adidas,621.46,GBP,Y
+P000192,Jacket,Clothing,Nike,248.24,USD,N
+P000193,Running Shoes,Sports,Puma,297.58,USD,N
+P000194,Lipstick,Beauty,L'Oreal,171.75,USD,Y
+P000195,Fitness Tracker,Sports,Garmin,86.84,USD,Y
+P000196,Dress,Clothing,Nike,70.69,EUR,Y
+P000197,Yoga Mat,Sports,Puma,533.38,USD,Y
+P000198,Desk,Home,Dyson,1012.52,GBP,Y
+P000199,Laptop,Electronics,Apple,758.92,GBP,Y
+P000200,Fitness Tracker,Sports,Adidas,599.19,EUR,Y
+P000201,Body Lotion,Beauty,Nivea,186.0,EUR,N
+P000202,Perfume,Beauty,Maybelline,235.33,GBP,Y
+P000203,Football,Sports,Nike,422.59,EUR,Y
+P000204,Sneakers,Clothing,Nike,348.2,USD,Y
+P000205,Perfume,Beauty,Nivea,169.11,EUR,Y
+P000206,Coffee Machine,Home,Dyson,1061.22,GBP,Y
+P000207,Desk,Home,IKEA,631.13,GBP,Y
+P000208,Jacket,Clothing,Puma,337.08,USD,Y
+P000209,Face Cream,Beauty,Maybelline,96.04,EUR,N
+P000210,Jeans,Clothing,H&M,126.35,GBP,Y
+P000211,Body Lotion,Beauty,Nivea,213.77,EUR,Y
+P000212,Monitor,Electronics,Sony,419.22,USD,Y
+P000213,Yoga Mat,Sports,Reebok,533.76,EUR,Y
+P000214,Fitness Tracker,Sports,Puma,653.25,GBP,Y
+P000215,Lipstick,Beauty,Nivea,221.16,EUR,Y
+P000216,Smartphone,Electronics,Samsung,269.08,EUR,Y
+P000217,Desk,Home,IKEA,279.3,USD,N
+P000218,Dress,Clothing,Zara,87.23,EUR,Y
+P000219,Dress,Clothing,Puma,195.47,GBP,Y
+P000220,Vacuum Cleaner,Home,Bosch,495.39,USD,Y
+P000221,Dumbbells,Sports,Garmin,176.59,EUR,Y
+P000222,Shampoo,Beauty,Nivea,14.71,GBP,Y
+P000223,Chair,Home,Dyson,76.36,USD,Y
+P000224,Yoga Mat,Sports,Nike,73.55,USD,N
+P000225,Monitor,Electronics,Sony,1924.32,USD,Y
+P000226,Lipstick,Beauty,L'Oreal,96.03,GBP,N
+P000227,Running Shoes,Sports,Adidas,92.93,USD,Y
+P000228,Jacket,Clothing,Adidas,274.66,GBP,Y
+P000229,Chair,Home,Dyson,81.78,EUR,Y
+P000230,Dumbbells,Sports,Reebok,593.65,EUR,Y
+P000231,Perfume,Beauty,Maybelline,141.97,EUR,N
+P000232,Jeans,Clothing,H&M,297.88,EUR,Y
+P000233,Dumbbells,Sports,Nike,210.46,USD,Y
+P000234,Body Lotion,Beauty,L'Oreal,113.98,USD,Y
+P000235,Chair,Home,IKEA,1489.88,EUR,Y
+P000236,Perfume,Beauty,Garnier,28.35,GBP,Y
+P000237,Shampoo,Beauty,Maybelline,245.53,EUR,N
+P000238,Chair,Home,Bosch,691.75,EUR,Y
+P000239,Running Shoes,Sports,Puma,654.79,GBP,Y
+P000240,Body Lotion,Beauty,Dove,193.06,USD,N
+P000241,Body Lotion,Beauty,Nivea,137.96,EUR,Y
+P000242,Dress,Clothing,Puma,179.69,USD,Y
+P000243,Yoga Mat,Sports,Nike,483.17,GBP,Y
+P000244,Shampoo,Beauty,Maybelline,134.82,GBP,N
+P000245,Headphones,Electronics,Dell,1095.61,USD,Y
+P000246,T-Shirt,Clothing,Puma,116.41,GBP,N
+P000247,Monitor,Electronics,LG,134.65,GBP,Y
+P000248,Perfume,Beauty,Nivea,181.89,USD,Y
+P000249,Tablet,Electronics,Samsung,2188.69,USD,N
+P000250,Shampoo,Beauty,Garnier,234.95,USD,Y
+P000251,Sneakers,Clothing,Nike,331.39,EUR,Y
+P000252,Desk,Home,Dyson,773.73,GBP,Y
+P000253,Body Lotion,Beauty,L'Oreal,60.35,USD,Y
+P000254,Perfume,Beauty,Maybelline,190.71,EUR,Y
+P000255,Dining Table,Home,IKEA,611.8,GBP,Y
+P000256,Yoga Mat,Sports,Garmin,36.67,EUR,N
+P000257,Keyboard,Electronics,Lenovo,1826.23,GBP,Y
+P000258,Keyboard,Electronics,LG,642.39,EUR,Y
+P000259,Headphones,Electronics,Apple,1637.02,EUR,N
+P000260,Fitness Tracker,Sports,Nike,256.11,EUR,Y
+P000261,Vacuum Cleaner,Home,Siemens,1235.61,USD,Y
+P000262,Dress,Clothing,H&M,90.19,EUR,Y
+P000263,Jeans,Clothing,Puma,218.96,USD,N
+P000264,Monitor,Electronics,LG,1046.02,GBP,Y
+P000265,Football,Sports,Nike,444.76,EUR,Y
+P000266,Vacuum Cleaner,Home,Bosch,681.64,USD,Y
+P000267,T-Shirt,Clothing,H&M,188.38,USD,Y
+P000268,Football,Sports,Nike,353.24,GBP,Y
+P000269,Coffee Machine,Home,Bosch,1110.57,EUR,Y
+P000270,Dumbbells,Sports,Adidas,328.32,USD,Y
+P000271,Jeans,Clothing,Zara,155.39,USD,N
+P000272,Jeans,Clothing,Adidas,237.43,GBP,N
+P000273,Jeans,Clothing,Puma,18.89,USD,Y
+P000274,Shampoo,Beauty,Garnier,83.04,GBP,Y
+P000275,Chair,Home,Bosch,714.14,EUR,N
+P000276,Dress,Clothing,Nike,32.35,USD,Y
+P000277,Jacket,Clothing,H&M,310.23,EUR,Y
+P000278,Fitness Tracker,Sports,Garmin,156.11,USD,Y
+P000279,T-Shirt,Clothing,Zara,297.26,EUR,Y
+P000280,Keyboard,Electronics,Apple,1288.79,USD,Y
+P000281,Chair,Home,Bosch,242.0,USD,Y
+P000282,Dining Table,Home,IKEA,1432.88,EUR,Y
+P000283,Dumbbells,Sports,Puma,421.46,EUR,Y
+P000284,Dumbbells,Sports,Adidas,202.46,EUR,Y
+P000285,Shampoo,Beauty,Dove,110.81,USD,Y
+P000286,Face Cream,Beauty,Nivea,35.25,USD,Y
+P000287,Smartphone,Electronics,Dell,519.73,USD,Y
+P000288,Fitness Tracker,Sports,Nike,192.55,GBP,Y
+P000289,Keyboard,Electronics,Apple,1259.61,GBP,Y
+P000290,Laptop,Electronics,Lenovo,1532.29,GBP,N
+P000291,Tablet,Electronics,Lenovo,1993.73,EUR,Y
+P000292,Smartphone,Electronics,Dell,767.53,GBP,N
+P000293,Chair,Home,IKEA,1267.37,GBP,Y
+P000294,Dining Table,Home,IKEA,635.63,USD,Y
+P000295,Lipstick,Beauty,Maybelline,44.2,EUR,Y
+P000296,Laptop,Electronics,Sony,1964.78,USD,Y
+P000297,Shampoo,Beauty,Dove,156.58,GBP,Y
+P000298,Dumbbells,Sports,Adidas,242.73,USD,Y
+P000299,Yoga Mat,Sports,Garmin,386.88,EUR,Y
+P000300,T-Shirt,Clothing,Puma,226.48,GBP,Y
+P000301,Dress,Clothing,Zara,349.4,GBP,Y
+P000302,Jacket,Clothing,H&M,263.1,GBP,Y
+P000303,Monitor,Electronics,Apple,619.37,USD,Y
+P000304,Perfume,Beauty,L'Oreal,46.33,EUR,Y
+P000305,Coffee Machine,Home,Siemens,180.67,EUR,Y
+P000306,Fitness Tracker,Sports,Adidas,659.44,EUR,Y
+P000307,Yoga Mat,Sports,Nike,56.0,EUR,Y
+P000308,Jeans,Clothing,Zara,311.78,GBP,Y
+P000309,Vacuum Cleaner,Home,Dyson,1468.39,EUR,Y
+P000310,Mouse,Electronics,LG,1785.03,GBP,Y
+P000311,Body Lotion,Beauty,Nivea,98.7,GBP,Y
+P000312,Chair,Home,Dyson,1106.74,USD,Y
+P000313,Coffee Machine,Home,Philips,1430.24,EUR,Y
+P000314,Laptop,Electronics,Lenovo,1027.26,EUR,Y
+P000315,Dress,Clothing,H&M,240.24,GBP,Y
+P000316,Sneakers,Clothing,Zara,207.1,EUR,Y
+P000317,Jeans,Clothing,Adidas,26.7,GBP,Y
+P000318,Coffee Machine,Home,Philips,645.84,USD,Y
+P000319,Chair,Home,IKEA,1152.99,USD,Y
+P000320,Keyboard,Electronics,Lenovo,1251.74,EUR,Y
+P000321,Desk,Home,Dyson,1375.9,EUR,Y
+P000322,Dining Table,Home,Philips,541.68,EUR,Y
+P000323,Jeans,Clothing,Nike,250.47,GBP,Y
+P000324,Body Lotion,Beauty,Garnier,65.75,EUR,Y
+P000325,Dumbbells,Sports,Adidas,244.25,GBP,Y
+P000326,Laptop,Electronics,Dell,477.25,GBP,Y
+P000327,Tablet,Electronics,Sony,340.25,EUR,N
+P000328,Football,Sports,Nike,245.28,GBP,N
+P000329,Shampoo,Beauty,Dove,236.13,USD,Y
+P000330,Headphones,Electronics,Lenovo,1317.83,USD,Y
+P000331,Yoga Mat,Sports,Garmin,339.71,EUR,Y
+P000332,Coffee Machine,Home,Siemens,836.85,GBP,Y
+P000333,Dumbbells,Sports,Reebok,57.63,GBP,Y
+P000334,Running Shoes,Sports,Reebok,87.05,GBP,Y
+P000335,Dining Table,Home,Bosch,299.49,USD,Y
+P000336,Desk,Home,Bosch,1123.46,GBP,Y
+P000337,Headphones,Electronics,Samsung,1160.36,GBP,Y
+P000338,T-Shirt,Clothing,Adidas,16.55,EUR,Y
+P000339,Body Lotion,Beauty,Garnier,120.46,EUR,Y
+P000340,Yoga Mat,Sports,Reebok,675.35,USD,N
+P000341,Chair,Home,Philips,1191.09,USD,Y
+P000342,Shampoo,Beauty,Garnier,205.36,EUR,Y
+P000343,Dress,Clothing,Nike,215.82,USD,Y
+P000344,Sneakers,Clothing,Puma,329.75,GBP,Y
+P000345,Dining Table,Home,Philips,1327.88,USD,Y
+P000346,Desk,Home,IKEA,775.04,USD,N
+P000347,Dumbbells,Sports,Reebok,347.97,EUR,Y
+P000348,Tablet,Electronics,Apple,1650.74,GBP,Y
+P000349,Monitor,Electronics,Samsung,1510.4,EUR,Y
+P000350,Sneakers,Clothing,Zara,194.84,GBP,Y
+P000351,Face Cream,Beauty,Nivea,155.82,USD,Y
+P000352,Perfume,Beauty,Maybelline,151.49,USD,Y
+P000353,Dumbbells,Sports,Garmin,666.21,EUR,Y
+P000354,Smartphone,Electronics,Apple,612.1,GBP,N
+P000355,Fitness Tracker,Sports,Adidas,650.54,USD,Y
+P000356,Dumbbells,Sports,Puma,420.86,EUR,Y
+P000357,Dumbbells,Sports,Nike,101.34,USD,Y
+P000358,Mouse,Electronics,Sony,892.84,USD,Y
+P000359,Shampoo,Beauty,Garnier,187.65,EUR,Y
+P000360,Desk,Home,IKEA,1460.08,EUR,Y
+P000361,Lipstick,Beauty,L'Oreal,21.93,USD,Y
+P000362,Mouse,Electronics,LG,1065.57,EUR,Y
+P000363,Coffee Machine,Home,Philips,1310.52,USD,Y
+P000364,Body Lotion,Beauty,Garnier,150.64,GBP,Y
+P000365,Laptop,Electronics,Sony,2093.41,EUR,Y
+P000366,Jeans,Clothing,Zara,124.9,EUR,Y
+P000367,Laptop,Electronics,Dell,1908.93,EUR,Y
+P000368,Shampoo,Beauty,Nivea,248.25,GBP,Y
+P000369,Jacket,Clothing,Adidas,309.12,GBP,Y
+P000370,Shampoo,Beauty,Garnier,155.29,GBP,Y
+P000371,Chair,Home,Siemens,1222.19,GBP,Y
+P000372,Jacket,Clothing,Nike,334.65,GBP,Y
+P000373,Desk,Home,Siemens,555.07,GBP,N
+P000374,Tablet,Electronics,Samsung,1628.53,USD,Y
+P000375,Perfume,Beauty,Nivea,176.26,GBP,Y
+P000376,Desk,Home,IKEA,127.85,USD,N
+P000377,Lipstick,Beauty,Nivea,125.51,USD,Y
+P000378,Sneakers,Clothing,Puma,217.2,GBP,Y
+P000379,Sneakers,Clothing,Zara,49.14,EUR,Y
+P000380,Yoga Mat,Sports,Reebok,385.71,USD,Y
+P000381,Fitness Tracker,Sports,Nike,571.29,EUR,Y
+P000382,Jacket,Clothing,H&M,60.04,GBP,Y
+P000383,T-Shirt,Clothing,H&M,302.55,USD,Y
+P000384,Football,Sports,Nike,188.36,EUR,Y
+P000385,Dumbbells,Sports,Reebok,525.57,EUR,Y
+P000386,Keyboard,Electronics,LG,98.73,GBP,Y
+P000387,Dumbbells,Sports,Garmin,629.25,USD,Y
+P000388,Yoga Mat,Sports,Adidas,564.83,GBP,Y
+P000389,Jacket,Clothing,H&M,284.87,USD,Y
+P000390,Jeans,Clothing,H&M,177.76,EUR,Y
+P000391,Football,Sports,Garmin,458.13,USD,Y
+P000392,Vacuum Cleaner,Home,Siemens,359.06,USD,Y
+P000393,Yoga Mat,Sports,Nike,573.88,EUR,Y
+P000394,T-Shirt,Clothing,Puma,234.48,USD,Y
+P000395,Dumbbells,Sports,Adidas,535.59,GBP,Y
+P000396,Football,Sports,Nike,488.72,GBP,Y
+P000397,Shampoo,Beauty,L'Oreal,82.48,EUR,Y
+P000398,Vacuum Cleaner,Home,Siemens,1274.88,EUR,Y
+P000399,Coffee Machine,Home,Dyson,687.84,GBP,Y
+P000400,T-Shirt,Clothing,Puma,237.07,GBP,Y
+P000401,Face Cream,Beauty,Nivea,249.66,USD,Y
+P000402,Face Cream,Beauty,Dove,120.64,EUR,Y
+P000403,Lipstick,Beauty,L'Oreal,14.93,USD,N
+P000404,T-Shirt,Clothing,Puma,323.84,USD,Y
+P000405,Perfume,Beauty,Garnier,210.75,GBP,Y
+P000406,Chair,Home,Siemens,1432.37,GBP,Y
+P000407,Dining Table,Home,Siemens,61.43,EUR,Y
+P000408,Shampoo,Beauty,L'Oreal,97.64,USD,Y
+P000409,Body Lotion,Beauty,L'Oreal,215.27,GBP,Y
+P000410,Desk,Home,Bosch,1156.79,USD,Y
+P000411,Perfume,Beauty,L'Oreal,109.73,EUR,Y
+P000412,Yoga Mat,Sports,Garmin,681.54,EUR,Y
+P000413,Body Lotion,Beauty,Garnier,7.07,USD,Y
+P000414,Dining Table,Home,Dyson,407.95,GBP,Y
+P000415,Body Lotion,Beauty,Nivea,41.72,USD,Y
+P000416,Shampoo,Beauty,L'Oreal,198.66,GBP,N
+P000417,Dumbbells,Sports,Adidas,647.77,GBP,Y
+P000418,Keyboard,Electronics,Sony,953.78,USD,Y
+P000419,Chair,Home,Bosch,819.55,USD,Y
+P000420,Yoga Mat,Sports,Adidas,477.79,EUR,Y
+P000421,Jeans,Clothing,Adidas,314.11,USD,N
+P000422,Running Shoes,Sports,Garmin,219.63,USD,Y
+P000423,Monitor,Electronics,Samsung,39.92,EUR,Y
+P000424,Laptop,Electronics,Samsung,1645.08,EUR,Y
+P000425,Dress,Clothing,Zara,253.23,USD,Y
+P000426,Headphones,Electronics,LG,467.69,EUR,Y
+P000427,Sneakers,Clothing,Nike,311.26,EUR,N
+P000428,Vacuum Cleaner,Home,Philips,1240.98,GBP,Y
+P000429,Desk,Home,Bosch,1042.99,EUR,Y
+P000430,Yoga Mat,Sports,Reebok,225.39,GBP,Y
+P000431,Desk,Home,Bosch,565.7,USD,Y
+P000432,Lipstick,Beauty,Nivea,215.8,GBP,N
+P000433,Jeans,Clothing,Puma,143.7,USD,Y
+P000434,Shampoo,Beauty,Nivea,186.28,USD,Y
+P000435,Body Lotion,Beauty,Nivea,235.68,USD,Y
+P000436,Laptop,Electronics,Dell,1967.4,EUR,Y
+P000437,Tablet,Electronics,Apple,288.46,GBP,Y
+P000438,Shampoo,Beauty,Dove,168.15,USD,N
+P000439,Chair,Home,Bosch,1150.1,EUR,Y
+P000440,Sneakers,Clothing,Puma,173.79,USD,Y
+P000441,T-Shirt,Clothing,Puma,202.53,USD,Y
+P000442,Dumbbells,Sports,Garmin,618.58,EUR,Y
+P000443,Desk,Home,Philips,1268.16,EUR,Y
+P000444,Football,Sports,Garmin,673.84,EUR,Y
+P000445,Jeans,Clothing,Nike,330.36,EUR,Y
+P000446,Monitor,Electronics,Apple,401.95,EUR,Y
+P000447,Jeans,Clothing,H&M,265.97,USD,Y
+P000448,Yoga Mat,Sports,Puma,516.33,USD,N
+P000449,Desk,Home,IKEA,1263.23,EUR,Y
+P000450,Perfume,Beauty,L'Oreal,227.72,USD,N
+P000451,Perfume,Beauty,Dove,93.78,GBP,Y
+P000452,Football,Sports,Reebok,484.84,USD,Y
+P000453,Chair,Home,Dyson,428.62,USD,Y
+P000454,Shampoo,Beauty,Nivea,23.25,EUR,Y
+P000455,T-Shirt,Clothing,Zara,154.66,EUR,Y
+P000456,Sneakers,Clothing,Puma,190.64,GBP,N
+P000457,Keyboard,Electronics,Lenovo,1136.03,GBP,Y
+P000458,Fitness Tracker,Sports,Garmin,527.62,GBP,Y
+P000459,Shampoo,Beauty,Garnier,96.09,GBP,Y
+P000460,Coffee Machine,Home,Bosch,549.74,EUR,N
+P000461,Fitness Tracker,Sports,Adidas,103.36,EUR,Y
+P000462,T-Shirt,Clothing,Nike,288.6,GBP,Y
+P000463,Smartphone,Electronics,Lenovo,966.99,EUR,Y
+P000464,Shampoo,Beauty,Nivea,53.04,EUR,Y
+P000465,Dining Table,Home,Siemens,151.17,USD,Y
+P000466,Vacuum Cleaner,Home,Siemens,1091.43,USD,Y
+P000467,Face Cream,Beauty,Nivea,194.54,EUR,Y
+P000468,Dress,Clothing,H&M,76.44,GBP,Y
+P000469,Desk,Home,Siemens,601.34,EUR,N
+P000470,Smartphone,Electronics,LG,1314.89,USD,Y
+P000471,Dumbbells,Sports,Reebok,341.86,USD,Y
+P000472,Shampoo,Beauty,Dove,235.71,EUR,Y
+P000473,Dumbbells,Sports,Adidas,410.65,USD,Y
+P000474,Yoga Mat,Sports,Adidas,151.67,EUR,Y
+P000475,Laptop,Electronics,Apple,2161.79,EUR,Y
+P000476,Smartphone,Electronics,Dell,179.65,GBP,Y
+P000477,Body Lotion,Beauty,Maybelline,173.38,EUR,N
+P000478,Face Cream,Beauty,Maybelline,11.76,USD,Y
+P000479,Fitness Tracker,Sports,Nike,497.62,USD,Y
+P000480,Mouse,Electronics,Lenovo,272.47,GBP,N
+P000481,Dumbbells,Sports,Adidas,552.08,GBP,Y
+P000482,Vacuum Cleaner,Home,Bosch,1191.85,GBP,Y
+P000483,Perfume,Beauty,Maybelline,11.28,GBP,Y
+P000484,T-Shirt,Clothing,H&M,156.32,GBP,Y
+P000485,Dress,Clothing,Nike,237.49,GBP,Y
+P000486,Face Cream,Beauty,Dove,81.51,EUR,N
+P000487,Headphones,Electronics,Sony,1313.82,EUR,Y
+P000488,Football,Sports,Garmin,81.79,GBP,Y
+P000489,Running Shoes,Sports,Adidas,265.33,USD,Y
+P000490,Coffee Machine,Home,Bosch,912.63,USD,Y
+P000491,Keyboard,Electronics,Sony,1929.47,USD,N
+P000492,Football,Sports,Reebok,510.31,EUR,Y
+P000493,Jeans,Clothing,Nike,164.26,GBP,Y
+P000494,Headphones,Electronics,LG,1498.0,EUR,Y
+P000495,Keyboard,Electronics,Dell,568.77,GBP,Y
+P000496,Headphones,Electronics,Dell,675.59,EUR,N
+P000497,Face Cream,Beauty,Garnier,64.3,EUR,Y
+P000498,Face Cream,Beauty,Maybelline,213.11,GBP,Y
+P000499,Coffee Machine,Home,Philips,563.47,USD,Y
+P000500,Lipstick,Beauty,Nivea,162.49,EUR,Y
+P000501,Fitness Tracker,Sports,Puma,442.42,GBP,Y
+P000502,Sneakers,Clothing,Zara,78.96,GBP,N
+P000503,Desk,Home,Dyson,799.12,EUR,Y
+P000504,Jeans,Clothing,Adidas,17.7,GBP,Y
+P000505,Shampoo,Beauty,Nivea,45.15,EUR,Y
+P000506,Dumbbells,Sports,Puma,235.12,EUR,Y
+P000507,Fitness Tracker,Sports,Nike,681.19,EUR,Y
+P000508,Monitor,Electronics,Dell,271.21,EUR,Y
+P000509,Yoga Mat,Sports,Reebok,621.77,GBP,Y
+P000510,Dress,Clothing,Adidas,280.47,EUR,Y
+P000511,Vacuum Cleaner,Home,Dyson,336.54,GBP,Y
+P000512,T-Shirt,Clothing,Zara,112.65,GBP,N
+P000513,Mouse,Electronics,LG,488.19,GBP,N
+P000514,Football,Sports,Puma,558.99,USD,Y
+P000515,Jacket,Clothing,Adidas,66.05,EUR,N
+P000516,Chair,Home,Philips,483.62,GBP,Y
+P000517,Mouse,Electronics,Dell,834.71,EUR,Y
+P000518,Running Shoes,Sports,Nike,395.22,USD,Y
+P000519,Tablet,Electronics,Samsung,1459.12,GBP,Y
+P000520,Fitness Tracker,Sports,Puma,435.05,EUR,N
+P000521,T-Shirt,Clothing,Zara,338.1,GBP,Y
+P000522,T-Shirt,Clothing,Nike,75.06,GBP,Y
+P000523,Vacuum Cleaner,Home,IKEA,190.52,EUR,Y
+P000524,Desk,Home,Dyson,603.89,GBP,Y
+P000525,Coffee Machine,Home,Siemens,1293.61,GBP,Y
+P000526,Fitness Tracker,Sports,Reebok,62.13,GBP,Y
+P000527,Perfume,Beauty,Maybelline,108.18,USD,Y
+P000528,Face Cream,Beauty,Garnier,120.57,GBP,Y
+P000529,Chair,Home,Bosch,1209.13,GBP,Y
+P000530,Sneakers,Clothing,Nike,30.62,USD,Y
+P000531,Coffee Machine,Home,Bosch,502.44,GBP,N
+P000532,Body Lotion,Beauty,Dove,51.39,USD,Y
+P000533,Headphones,Electronics,Dell,579.26,EUR,Y
+P000534,Shampoo,Beauty,Maybelline,155.37,EUR,Y
+P000535,Tablet,Electronics,LG,1403.49,GBP,Y
+P000536,Running Shoes,Sports,Garmin,448.78,USD,N
+P000537,Chair,Home,Dyson,1490.24,USD,Y
+P000538,Vacuum Cleaner,Home,Philips,843.93,USD,N
+P000539,Perfume,Beauty,L'Oreal,82.65,GBP,Y
+P000540,T-Shirt,Clothing,Zara,161.49,USD,Y
+P000541,Body Lotion,Beauty,Garnier,110.85,EUR,N
+P000542,Jacket,Clothing,Puma,176.69,USD,Y
+P000543,Face Cream,Beauty,Dove,22.23,USD,Y
+P000544,Tablet,Electronics,Samsung,1705.33,EUR,Y
+P000545,Perfume,Beauty,Maybelline,29.41,USD,Y
+P000546,Dumbbells,Sports,Reebok,426.29,GBP,Y
+P000547,Football,Sports,Reebok,213.07,USD,Y
+P000548,Headphones,Electronics,Apple,1569.17,USD,Y
+P000549,Dumbbells,Sports,Nike,441.35,USD,Y
+P000550,Vacuum Cleaner,Home,Philips,38.46,USD,Y
+P000551,Vacuum Cleaner,Home,Philips,51.97,GBP,Y
+P000552,Perfume,Beauty,L'Oreal,61.24,USD,Y
+P000553,Headphones,Electronics,Samsung,524.39,USD,Y
+P000554,Dress,Clothing,Nike,175.56,USD,Y
+P000555,Coffee Machine,Home,Siemens,668.25,GBP,Y
+P000556,Mouse,Electronics,Dell,184.76,GBP,Y
+P000557,Mouse,Electronics,LG,1639.05,USD,Y
+P000558,Shampoo,Beauty,Nivea,162.46,EUR,Y
+P000559,Perfume,Beauty,Garnier,83.95,EUR,Y
+P000560,Fitness Tracker,Sports,Puma,256.87,GBP,Y
+P000561,Fitness Tracker,Sports,Adidas,179.75,USD,Y
+P000562,Coffee Machine,Home,Bosch,645.46,USD,Y
+P000563,Keyboard,Electronics,Lenovo,1139.9,EUR,Y
+P000564,Body Lotion,Beauty,Dove,91.27,GBP,Y
+P000565,Football,Sports,Nike,20.32,USD,Y
+P000566,Coffee Machine,Home,Siemens,233.35,EUR,Y
+P000567,Chair,Home,Dyson,191.34,USD,Y
+P000568,Jacket,Clothing,Puma,95.99,USD,Y
+P000569,Dining Table,Home,Siemens,1347.65,EUR,Y
+P000570,Face Cream,Beauty,Garnier,145.57,GBP,Y
+P000571,Vacuum Cleaner,Home,IKEA,1358.22,GBP,Y
+P000572,Jeans,Clothing,H&M,334.23,GBP,Y
+P000573,Coffee Machine,Home,Bosch,32.61,EUR,Y
+P000574,Tablet,Electronics,Lenovo,744.08,USD,N
+P000575,Lipstick,Beauty,Dove,207.93,EUR,Y
+P000576,Sneakers,Clothing,H&M,75.27,USD,N
+P000577,Coffee Machine,Home,Dyson,1101.54,GBP,Y
+P000578,Running Shoes,Sports,Adidas,364.25,EUR,Y
+P000579,Desk,Home,Philips,731.67,EUR,Y
+P000580,Face Cream,Beauty,Dove,208.7,GBP,Y
+P000581,Laptop,Electronics,LG,94.92,EUR,Y
+P000582,Lipstick,Beauty,Maybelline,144.06,GBP,Y
+P000583,Dining Table,Home,IKEA,70.39,USD,Y
+P000584,Coffee Machine,Home,Siemens,952.28,GBP,Y
+P000585,Fitness Tracker,Sports,Nike,406.89,GBP,Y
+P000586,Laptop,Electronics,Sony,1175.19,USD,Y
+P000587,Desk,Home,IKEA,1236.4,EUR,Y
+P000588,Chair,Home,Siemens,1366.41,GBP,N
+P000589,Tablet,Electronics,LG,1522.9,USD,Y
+P000590,Keyboard,Electronics,Dell,1768.05,EUR,Y
+P000591,Sneakers,Clothing,H&M,150.54,GBP,Y
+P000592,T-Shirt,Clothing,Puma,186.31,GBP,Y
+P000593,Body Lotion,Beauty,Garnier,133.43,GBP,Y
+P000594,T-Shirt,Clothing,Puma,301.93,EUR,Y
+P000595,Laptop,Electronics,Dell,2147.94,USD,Y
+P000596,Chair,Home,Dyson,295.22,USD,Y
+P000597,Vacuum Cleaner,Home,Dyson,560.52,GBP,Y
+P000598,Jeans,Clothing,Adidas,149.97,GBP,Y
+P000599,Body Lotion,Beauty,Dove,197.9,USD,Y
+P000600,Jacket,Clothing,H&M,288.62,GBP,N
+P000601,Body Lotion,Beauty,L'Oreal,159.2,USD,N
+P000602,Vacuum Cleaner,Home,Bosch,1062.79,USD,Y
+P000603,Jeans,Clothing,Adidas,117.48,GBP,N
+P000604,Perfume,Beauty,Dove,19.97,USD,Y
+P000605,Perfume,Beauty,Maybelline,124.84,GBP,Y
+P000606,Yoga Mat,Sports,Garmin,299.65,GBP,N
+P000607,Jacket,Clothing,Nike,171.91,GBP,N
+P000608,Shampoo,Beauty,L'Oreal,78.78,USD,Y
+P000609,T-Shirt,Clothing,Nike,209.03,EUR,Y
+P000610,T-Shirt,Clothing,Puma,248.9,USD,N
+P000611,Headphones,Electronics,Apple,651.04,EUR,Y
+P000612,Face Cream,Beauty,L'Oreal,191.96,EUR,Y
+P000613,Tablet,Electronics,Samsung,1024.53,GBP,Y
+P000614,T-Shirt,Clothing,Puma,101.68,GBP,Y
+P000615,Coffee Machine,Home,Dyson,35.8,USD,Y
+P000616,Lipstick,Beauty,L'Oreal,33.76,GBP,Y
+P000617,Running Shoes,Sports,Nike,120.89,EUR,Y
+P000618,Sneakers,Clothing,Zara,165.78,EUR,Y
+P000619,Mouse,Electronics,Samsung,1249.84,EUR,Y
+P000620,Sneakers,Clothing,Adidas,130.73,EUR,N
+P000621,Desk,Home,Siemens,677.75,USD,Y
+P000622,Fitness Tracker,Sports,Reebok,108.54,USD,Y
+P000623,Body Lotion,Beauty,Dove,191.58,EUR,Y
+P000624,Keyboard,Electronics,Samsung,128.99,USD,Y
+P000625,Tablet,Electronics,Samsung,1045.22,USD,Y
+P000626,Dress,Clothing,Adidas,344.29,GBP,Y
+P000627,Football,Sports,Puma,169.0,GBP,Y
+P000628,Headphones,Electronics,Dell,332.81,EUR,Y
+P000629,Dumbbells,Sports,Garmin,693.27,USD,Y
+P000630,Body Lotion,Beauty,L'Oreal,244.68,GBP,Y
+P000631,Tablet,Electronics,Lenovo,30.81,GBP,Y
+P000632,Perfume,Beauty,Nivea,77.07,EUR,Y
+P000633,Keyboard,Electronics,Apple,1427.69,EUR,Y
+P000634,Headphones,Electronics,Lenovo,820.07,EUR,Y
+P000635,Vacuum Cleaner,Home,Siemens,922.07,GBP,Y
+P000636,Dining Table,Home,Philips,900.61,GBP,Y
+P000637,Sneakers,Clothing,H&M,268.68,GBP,Y
+P000638,Dining Table,Home,Dyson,1275.03,EUR,Y
+P000639,Mouse,Electronics,Dell,1520.87,EUR,Y
+P000640,Monitor,Electronics,Apple,1224.53,GBP,Y
+P000641,Desk,Home,Dyson,598.96,EUR,Y
+P000642,Lipstick,Beauty,Garnier,131.79,EUR,Y
+P000643,Body Lotion,Beauty,Dove,226.55,GBP,N
+P000644,Perfume,Beauty,Nivea,23.99,USD,Y
+P000645,Desk,Home,Philips,182.75,USD,Y
+P000646,Shampoo,Beauty,L'Oreal,47.83,USD,Y
+P000647,Perfume,Beauty,L'Oreal,113.49,USD,Y
+P000648,Fitness Tracker,Sports,Reebok,261.32,USD,Y
+P000649,Perfume,Beauty,L'Oreal,154.42,USD,N
+P000650,Keyboard,Electronics,Dell,1237.29,USD,Y
+P000651,Smartphone,Electronics,Apple,672.28,EUR,Y
+P000652,Headphones,Electronics,Sony,2180.44,GBP,Y
+P000653,Jeans,Clothing,Nike,74.41,GBP,Y
+P000654,Running Shoes,Sports,Puma,447.36,EUR,N
+P000655,Jeans,Clothing,H&M,176.76,GBP,Y
+P000656,Tablet,Electronics,Sony,1897.04,USD,Y
+P000657,Running Shoes,Sports,Garmin,50.6,EUR,Y
+P000658,Running Shoes,Sports,Puma,397.73,GBP,Y
+P000659,Desk,Home,Bosch,747.91,GBP,N
+P000660,Desk,Home,Dyson,55.12,USD,Y
+P000661,T-Shirt,Clothing,Nike,170.34,USD,Y
+P000662,Smartphone,Electronics,Lenovo,849.21,GBP,Y
+P000663,Jeans,Clothing,Zara,40.85,GBP,Y
+P000664,Laptop,Electronics,Samsung,2004.99,EUR,N
+P000665,Laptop,Electronics,Lenovo,691.94,EUR,Y
+P000666,Yoga Mat,Sports,Adidas,629.57,GBP,Y
+P000667,Chair,Home,Bosch,40.18,EUR,Y
+P000668,Yoga Mat,Sports,Adidas,187.4,GBP,N
+P000669,Vacuum Cleaner,Home,Philips,1051.2,GBP,Y
+P000670,Tablet,Electronics,Lenovo,1127.3,GBP,Y
+P000671,Monitor,Electronics,Lenovo,417.86,USD,Y
+P000672,Yoga Mat,Sports,Reebok,560.86,USD,Y
+P000673,Shampoo,Beauty,L'Oreal,65.09,EUR,Y
+P000674,Yoga Mat,Sports,Puma,650.87,GBP,Y
+P000675,Body Lotion,Beauty,L'Oreal,131.03,GBP,Y
+P000676,Yoga Mat,Sports,Nike,444.49,EUR,N
+P000677,Running Shoes,Sports,Garmin,205.36,EUR,N
+P000678,Keyboard,Electronics,Samsung,1049.76,USD,Y
+P000679,Chair,Home,Siemens,706.84,GBP,Y
+P000680,Laptop,Electronics,Sony,48.54,GBP,Y
+P000681,Desk,Home,Siemens,979.95,GBP,Y
+P000682,Body Lotion,Beauty,Maybelline,225.41,GBP,N
+P000683,Yoga Mat,Sports,Reebok,217.75,USD,Y
+P000684,Coffee Machine,Home,Philips,874.29,EUR,Y
+P000685,Vacuum Cleaner,Home,Bosch,1115.36,USD,Y
+P000686,T-Shirt,Clothing,Nike,137.26,GBP,Y
+P000687,Monitor,Electronics,LG,1196.19,GBP,Y
+P000688,Dining Table,Home,IKEA,931.56,GBP,Y
+P000689,Dress,Clothing,Puma,104.37,USD,Y
+P000690,Vacuum Cleaner,Home,Philips,522.97,USD,Y
+P000691,T-Shirt,Clothing,Adidas,341.04,EUR,Y
+P000692,Dress,Clothing,Puma,293.61,USD,N
+P000693,Desk,Home,Bosch,1471.76,USD,Y
+P000694,Vacuum Cleaner,Home,IKEA,715.78,USD,N
+P000695,Jeans,Clothing,Zara,307.32,EUR,Y
+P000696,Tablet,Electronics,Apple,282.8,USD,Y
+P000697,Sneakers,Clothing,Puma,123.66,GBP,Y
+P000698,Sneakers,Clothing,H&M,153.81,USD,Y
+P000699,Fitness Tracker,Sports,Garmin,486.78,EUR,Y
+P000700,Keyboard,Electronics,Samsung,1010.53,EUR,N
+P000701,Sneakers,Clothing,H&M,269.54,EUR,N
+P000702,Lipstick,Beauty,Garnier,32.6,USD,Y
+P000703,Shampoo,Beauty,Nivea,69.51,GBP,Y
+P000704,Mouse,Electronics,Lenovo,771.1,GBP,N
+P000705,Shampoo,Beauty,Nivea,112.83,EUR,Y
+P000706,Perfume,Beauty,Maybelline,143.13,EUR,Y
+P000707,Fitness Tracker,Sports,Adidas,671.37,USD,Y
+P000708,Perfume,Beauty,Dove,154.04,EUR,Y
+P000709,Football,Sports,Nike,329.11,EUR,Y
+P000710,Smartphone,Electronics,Apple,1489.16,EUR,Y
+P000711,Jeans,Clothing,Zara,225.91,USD,N
+P000712,Chair,Home,IKEA,361.9,USD,Y
+P000713,Sneakers,Clothing,Nike,345.86,EUR,N
+P000714,Dining Table,Home,Philips,282.56,USD,Y
+P000715,Vacuum Cleaner,Home,Siemens,1064.48,USD,Y
+P000716,Keyboard,Electronics,Dell,2158.45,USD,Y
+P000717,Lipstick,Beauty,L'Oreal,238.64,GBP,N
+P000718,Vacuum Cleaner,Home,Philips,60.39,USD,Y
+P000719,Jeans,Clothing,Zara,338.35,EUR,Y
+P000720,Fitness Tracker,Sports,Puma,154.59,EUR,Y
+P000721,Monitor,Electronics,Dell,2159.41,USD,Y
+P000722,Fitness Tracker,Sports,Reebok,197.82,USD,Y
+P000723,Vacuum Cleaner,Home,Philips,246.83,GBP,Y
+P000724,Monitor,Electronics,Apple,138.0,USD,Y
+P000725,Running Shoes,Sports,Puma,470.08,EUR,N
+P000726,Football,Sports,Puma,318.39,EUR,Y
+P000727,Monitor,Electronics,LG,1996.05,EUR,Y
+P000728,Face Cream,Beauty,Dove,60.76,EUR,Y
+P000729,Chair,Home,Siemens,348.34,EUR,Y
+P000730,Face Cream,Beauty,Garnier,137.12,EUR,Y
+P000731,Laptop,Electronics,Dell,1949.37,EUR,Y
+P000732,Lipstick,Beauty,Dove,129.47,USD,Y
+P000733,Laptop,Electronics,Dell,1263.86,EUR,Y
+P000734,Chair,Home,IKEA,135.68,EUR,Y
+P000735,Jeans,Clothing,Zara,85.08,GBP,N
+P000736,Tablet,Electronics,Sony,303.7,EUR,Y
+P000737,Coffee Machine,Home,IKEA,1348.6,USD,Y
+P000738,Fitness Tracker,Sports,Nike,310.38,EUR,Y
+P000739,Smartphone,Electronics,Apple,984.6,EUR,Y
+P000740,Chair,Home,Bosch,528.52,EUR,N
+P000741,Coffee Machine,Home,IKEA,1000.09,EUR,Y
+P000742,Keyboard,Electronics,Apple,1245.28,EUR,Y
+P000743,Sneakers,Clothing,Nike,26.9,USD,Y
+P000744,Dining Table,Home,IKEA,523.69,GBP,Y
+P000745,Perfume,Beauty,Garnier,28.3,EUR,Y
+P000746,Shampoo,Beauty,Garnier,240.0,EUR,Y
+P000747,Dumbbells,Sports,Adidas,256.52,USD,Y
+P000748,Jacket,Clothing,H&M,102.12,USD,N
+P000749,Keyboard,Electronics,Dell,1329.49,EUR,N
+P000750,Shampoo,Beauty,Nivea,147.77,USD,Y
+P000751,Laptop,Electronics,Dell,1565.51,GBP,Y
+P000752,Chair,Home,Dyson,439.45,USD,Y
+P000753,Running Shoes,Sports,Puma,83.09,GBP,Y
+P000754,Jeans,Clothing,Adidas,118.9,GBP,Y
+P000755,Face Cream,Beauty,Dove,203.45,EUR,Y
+P000756,Shampoo,Beauty,Maybelline,95.84,USD,Y
+P000757,Smartphone,Electronics,Lenovo,1176.41,USD,Y
+P000758,Fitness Tracker,Sports,Garmin,356.99,EUR,Y
+P000759,Laptop,Electronics,Sony,624.99,EUR,Y
+P000760,Desk,Home,Siemens,1172.06,USD,Y
+P000761,Fitness Tracker,Sports,Garmin,195.45,USD,Y
+P000762,Perfume,Beauty,Dove,192.64,GBP,Y
+P000763,Chair,Home,Siemens,1049.88,GBP,Y
+P000764,Laptop,Electronics,Lenovo,1897.48,GBP,Y
+P000765,Vacuum Cleaner,Home,Siemens,156.74,GBP,Y
+P000766,Dining Table,Home,Siemens,143.59,GBP,Y
+P000767,Yoga Mat,Sports,Puma,322.51,EUR,Y
+P000768,Sneakers,Clothing,Zara,48.0,EUR,Y
+P000769,Jacket,Clothing,Puma,241.04,EUR,N
+P000770,Fitness Tracker,Sports,Nike,43.38,GBP,N
+P000771,Fitness Tracker,Sports,Reebok,459.86,USD,Y
+P000772,Lipstick,Beauty,Nivea,227.37,EUR,N
+P000773,Dining Table,Home,Siemens,996.2,GBP,Y
+P000774,Football,Sports,Nike,28.65,GBP,Y
+P000775,Perfume,Beauty,Maybelline,161.23,USD,Y
+P000776,T-Shirt,Clothing,Zara,117.58,USD,Y
+P000777,T-Shirt,Clothing,H&M,280.05,USD,Y
+P000778,Jeans,Clothing,Zara,214.29,GBP,Y
+P000779,Fitness Tracker,Sports,Adidas,645.06,USD,Y
+P000780,Chair,Home,Siemens,126.24,USD,Y
+P000781,Football,Sports,Adidas,155.86,GBP,Y
+P000782,Fitness Tracker,Sports,Nike,641.96,GBP,Y
+P000783,Face Cream,Beauty,Nivea,61.81,USD,Y
+P000784,Dress,Clothing,Nike,173.36,EUR,Y
+P000785,Dining Table,Home,Bosch,992.91,USD,Y
+P000786,Coffee Machine,Home,Philips,1387.06,EUR,Y
+P000787,Sneakers,Clothing,Zara,195.24,EUR,Y
+P000788,Football,Sports,Nike,421.48,EUR,Y
+P000789,Perfume,Beauty,Nivea,110.61,EUR,Y
+P000790,T-Shirt,Clothing,Puma,255.45,GBP,Y
+P000791,Desk,Home,Bosch,1037.02,EUR,N
+P000792,Yoga Mat,Sports,Adidas,305.71,USD,N
+P000793,Sneakers,Clothing,Puma,166.81,GBP,Y
+P000794,Keyboard,Electronics,Samsung,527.4,USD,Y
+P000795,Chair,Home,Siemens,37.17,GBP,Y
+P000796,Keyboard,Electronics,Lenovo,258.84,USD,N
+P000797,Smartphone,Electronics,Samsung,1227.14,GBP,Y
+P000798,Chair,Home,Siemens,971.53,GBP,Y
+P000799,Perfume,Beauty,Nivea,80.22,GBP,Y
+P000800,Dress,Clothing,Puma,264.48,EUR,Y
+P000801,Yoga Mat,Sports,Puma,80.92,USD,Y
+P000802,Shampoo,Beauty,L'Oreal,149.45,GBP,Y
+P000803,T-Shirt,Clothing,Nike,93.84,GBP,Y
+P000804,Running Shoes,Sports,Garmin,631.87,EUR,Y
+P000805,Mouse,Electronics,Dell,1066.56,GBP,Y
+P000806,Body Lotion,Beauty,Nivea,64.55,GBP,Y
+P000807,Smartphone,Electronics,Dell,2013.56,USD,Y
+P000808,Headphones,Electronics,Lenovo,267.13,EUR,N
+P000809,Running Shoes,Sports,Puma,532.34,EUR,N
+P000810,Lipstick,Beauty,Maybelline,216.21,USD,Y
+P000811,Jacket,Clothing,Adidas,93.69,GBP,Y
+P000812,Coffee Machine,Home,Siemens,603.15,GBP,Y
+P000813,Chair,Home,Siemens,566.21,EUR,Y
+P000814,Mouse,Electronics,Lenovo,1378.63,GBP,Y
+P000815,Running Shoes,Sports,Adidas,223.15,EUR,Y
+P000816,Vacuum Cleaner,Home,Bosch,1425.5,GBP,Y
+P000817,Football,Sports,Puma,426.24,EUR,Y
+P000818,Body Lotion,Beauty,Garnier,139.4,GBP,Y
+P000819,Smartphone,Electronics,LG,698.09,USD,Y
+P000820,Tablet,Electronics,Apple,209.97,EUR,Y
+P000821,Keyboard,Electronics,Samsung,1257.06,USD,N
+P000822,Football,Sports,Garmin,251.31,USD,Y
+P000823,Desk,Home,Siemens,1424.95,GBP,Y
+P000824,T-Shirt,Clothing,Adidas,96.53,USD,Y
+P000825,Jacket,Clothing,H&M,290.04,EUR,Y
+P000826,Lipstick,Beauty,Dove,238.61,GBP,Y
+P000827,Jeans,Clothing,Nike,327.18,EUR,Y
+P000828,Dress,Clothing,Zara,194.74,USD,N
+P000829,Football,Sports,Adidas,342.23,USD,Y
+P000830,Dress,Clothing,Zara,131.63,GBP,Y
+P000831,Face Cream,Beauty,Nivea,87.48,EUR,N
+P000832,Chair,Home,Bosch,1170.93,GBP,Y
+P000833,Sneakers,Clothing,Adidas,18.84,EUR,Y
+P000834,Desk,Home,Dyson,386.74,GBP,Y
+P000835,Football,Sports,Garmin,463.0,USD,Y
+P000836,Fitness Tracker,Sports,Puma,356.69,GBP,Y
+P000837,Chair,Home,Bosch,1282.94,EUR,Y
+P000838,Jeans,Clothing,Puma,165.73,EUR,Y
+P000839,Desk,Home,Siemens,663.28,GBP,Y
+P000840,Body Lotion,Beauty,Garnier,193.56,EUR,N
+P000841,Fitness Tracker,Sports,Puma,604.35,EUR,Y
+P000842,Monitor,Electronics,Samsung,410.87,USD,Y
+P000843,Lipstick,Beauty,Dove,234.38,USD,Y
+P000844,Football,Sports,Adidas,475.89,EUR,Y
+P000845,Coffee Machine,Home,IKEA,119.68,EUR,Y
+P000846,Shampoo,Beauty,Maybelline,33.37,USD,Y
+P000847,Football,Sports,Adidas,483.4,EUR,Y
+P000848,Dress,Clothing,Nike,261.81,GBP,Y
+P000849,Coffee Machine,Home,Bosch,1083.23,EUR,Y
+P000850,Yoga Mat,Sports,Adidas,103.68,GBP,Y
+P000851,Jeans,Clothing,Nike,213.97,EUR,Y
+P000852,Yoga Mat,Sports,Garmin,669.79,USD,Y
+P000853,Jacket,Clothing,Zara,288.83,EUR,Y
+P000854,Face Cream,Beauty,Nivea,115.04,EUR,Y
+P000855,Yoga Mat,Sports,Puma,110.24,GBP,Y
+P000856,Chair,Home,Philips,1101.96,EUR,Y
+P000857,Vacuum Cleaner,Home,Siemens,74.75,GBP,Y
+P000858,Mouse,Electronics,Sony,589.74,EUR,Y
+P000859,Chair,Home,Philips,62.19,EUR,Y
+P000860,Headphones,Electronics,Apple,1613.96,USD,Y
+P000861,Perfume,Beauty,Nivea,72.81,USD,N
+P000862,Monitor,Electronics,Dell,1530.62,GBP,Y
+P000863,Smartphone,Electronics,Samsung,758.97,USD,Y
+P000864,T-Shirt,Clothing,Nike,59.01,GBP,Y
+P000865,Coffee Machine,Home,Philips,86.13,GBP,Y
+P000866,T-Shirt,Clothing,H&M,22.41,EUR,N
+P000867,Vacuum Cleaner,Home,Bosch,876.32,GBP,N
+P000868,Jeans,Clothing,Nike,40.09,EUR,Y
+P000869,Dumbbells,Sports,Reebok,16.62,EUR,Y
+P000870,Fitness Tracker,Sports,Reebok,289.25,GBP,Y
+P000871,Jacket,Clothing,Puma,177.69,GBP,Y
+P000872,Coffee Machine,Home,Bosch,1307.92,GBP,Y
+P000873,T-Shirt,Clothing,Adidas,135.13,USD,N
+P000874,Headphones,Electronics,Samsung,1542.72,GBP,Y
+P000875,Monitor,Electronics,Lenovo,654.36,USD,N
+P000876,Jeans,Clothing,Puma,272.08,EUR,N
+P000877,Body Lotion,Beauty,Maybelline,73.92,EUR,Y
+P000878,Laptop,Electronics,Lenovo,1217.93,USD,Y
+P000879,Lipstick,Beauty,Garnier,174.35,USD,Y
+P000880,Sneakers,Clothing,Puma,327.48,GBP,Y
+P000881,Laptop,Electronics,Dell,903.84,GBP,Y
+P000882,Fitness Tracker,Sports,Reebok,634.88,GBP,Y
+P000883,Coffee Machine,Home,Dyson,684.12,GBP,Y
+P000884,T-Shirt,Clothing,Nike,41.3,EUR,N
+P000885,Vacuum Cleaner,Home,Philips,919.1,GBP,Y
+P000886,T-Shirt,Clothing,Adidas,168.63,USD,Y
+P000887,Jacket,Clothing,Nike,289.54,GBP,Y
+P000888,Keyboard,Electronics,Lenovo,664.45,USD,N
+P000889,Smartphone,Electronics,LG,652.46,USD,Y
+P000890,Monitor,Electronics,Dell,330.21,GBP,N
+P000891,Mouse,Electronics,Dell,204.31,GBP,N
+P000892,Vacuum Cleaner,Home,Siemens,504.59,EUR,Y
+P000893,Tablet,Electronics,Dell,530.94,GBP,Y
+P000894,Dining Table,Home,Philips,815.42,EUR,Y
+P000895,Perfume,Beauty,Garnier,16.36,USD,Y
+P000896,Fitness Tracker,Sports,Nike,518.23,GBP,N
+P000897,Fitness Tracker,Sports,Reebok,432.88,GBP,Y
+P000898,Headphones,Electronics,Sony,1074.46,GBP,Y
+P000899,Dining Table,Home,Philips,414.99,GBP,Y
+P000900,Dumbbells,Sports,Garmin,102.33,GBP,Y
+P000901,T-Shirt,Clothing,Adidas,284.25,USD,Y
+P000902,Desk,Home,Dyson,448.06,EUR,Y
+P000903,Laptop,Electronics,Samsung,1892.1,GBP,Y
+P000904,Dining Table,Home,Siemens,1448.31,EUR,Y
+P000905,Desk,Home,Bosch,788.0,EUR,N
+P000906,Tablet,Electronics,Lenovo,71.42,GBP,Y
+P000907,Monitor,Electronics,Dell,1540.79,USD,Y
+P000908,Jacket,Clothing,H&M,232.28,GBP,Y
+P000909,Vacuum Cleaner,Home,Dyson,478.31,USD,Y
+P000910,Shampoo,Beauty,Maybelline,175.44,GBP,Y
+P000911,Face Cream,Beauty,Garnier,126.45,GBP,Y
+P000912,Football,Sports,Reebok,304.11,EUR,Y
+P000913,Body Lotion,Beauty,Dove,154.79,EUR,Y
+P000914,Smartphone,Electronics,Apple,902.77,GBP,Y
+P000915,Keyboard,Electronics,Lenovo,1688.85,GBP,Y
+P000916,T-Shirt,Clothing,Nike,158.32,EUR,Y
+P000917,Desk,Home,IKEA,960.64,GBP,N
+P000918,Headphones,Electronics,Apple,428.92,USD,Y
+P000919,Face Cream,Beauty,Dove,182.87,EUR,N
+P000920,Coffee Machine,Home,IKEA,665.14,GBP,Y
+P000921,T-Shirt,Clothing,Adidas,238.4,USD,Y
+P000922,Sneakers,Clothing,H&M,84.37,USD,Y
+P000923,Smartphone,Electronics,LG,1740.77,USD,Y
+P000924,Chair,Home,Bosch,1064.66,USD,Y
+P000925,T-Shirt,Clothing,Adidas,101.54,GBP,Y
+P000926,Jacket,Clothing,H&M,330.57,EUR,Y
+P000927,Jacket,Clothing,Adidas,305.25,GBP,Y
+P000928,Running Shoes,Sports,Puma,131.1,GBP,Y
+P000929,Keyboard,Electronics,Lenovo,42.9,EUR,Y
+P000930,Fitness Tracker,Sports,Reebok,338.91,EUR,Y
+P000931,Monitor,Electronics,Sony,626.86,USD,Y
+P000932,Jacket,Clothing,Nike,287.54,EUR,Y
+P000933,Shampoo,Beauty,Nivea,179.94,GBP,N
+P000934,Dumbbells,Sports,Puma,336.15,EUR,Y
+P000935,Dining Table,Home,Dyson,881.17,USD,Y
+P000936,Dress,Clothing,Adidas,183.59,GBP,Y
+P000937,Face Cream,Beauty,L'Oreal,70.03,EUR,Y
+P000938,Dumbbells,Sports,Puma,605.78,USD,Y
+P000939,Lipstick,Beauty,L'Oreal,168.78,GBP,Y
+P000940,Shampoo,Beauty,Dove,137.74,USD,Y
+P000941,Jacket,Clothing,Adidas,343.21,USD,N
+P000942,Keyboard,Electronics,LG,716.6,EUR,Y
+P000943,Desk,Home,Bosch,199.02,USD,Y
+P000944,Monitor,Electronics,LG,1343.0,USD,Y
+P000945,Sneakers,Clothing,Adidas,145.77,GBP,Y
+P000946,Smartphone,Electronics,Apple,536.36,EUR,N
+P000947,Chair,Home,Dyson,1312.72,EUR,Y
+P000948,Desk,Home,Bosch,230.99,USD,Y
+P000949,Shampoo,Beauty,L'Oreal,10.96,USD,Y
+P000950,Keyboard,Electronics,Lenovo,996.38,EUR,N
+P000951,Jeans,Clothing,Nike,83.68,USD,Y
+P000952,Perfume,Beauty,Dove,221.45,USD,Y
+P000953,Perfume,Beauty,Garnier,84.11,EUR,Y
+P000954,Chair,Home,Siemens,258.92,GBP,Y
+P000955,Face Cream,Beauty,Garnier,130.62,GBP,Y
+P000956,Jeans,Clothing,Nike,152.04,EUR,Y
+P000957,Shampoo,Beauty,L'Oreal,95.44,GBP,Y
+P000958,Mouse,Electronics,LG,2168.68,GBP,N
+P000959,Smartphone,Electronics,Lenovo,788.97,EUR,N
+P000960,Smartphone,Electronics,LG,1217.32,EUR,Y
+P000961,Shampoo,Beauty,Dove,161.8,USD,Y
+P000962,Shampoo,Beauty,Maybelline,155.51,USD,Y
+P000963,Headphones,Electronics,Apple,159.15,USD,Y
+P000964,Monitor,Electronics,LG,988.86,USD,Y
+P000965,Running Shoes,Sports,Nike,387.53,USD,Y
+P000966,Coffee Machine,Home,Philips,530.39,EUR,N
+P000967,Running Shoes,Sports,Adidas,660.53,GBP,Y
+P000968,Football,Sports,Garmin,147.39,USD,N
+P000969,Perfume,Beauty,Maybelline,111.57,EUR,Y
+P000970,Laptop,Electronics,LG,53.25,EUR,Y
+P000971,Chair,Home,Siemens,270.15,USD,Y
+P000972,Body Lotion,Beauty,Garnier,67.31,USD,Y
+P000973,Smartphone,Electronics,Sony,1422.82,GBP,Y
+P000974,Smartphone,Electronics,Lenovo,685.54,USD,Y
+P000975,Football,Sports,Puma,353.22,GBP,N
+P000976,Mouse,Electronics,Dell,1610.45,GBP,Y
+P000977,Running Shoes,Sports,Garmin,186.19,USD,Y
+P000978,Jacket,Clothing,Nike,145.14,EUR,N
+P000979,Face Cream,Beauty,Dove,194.2,USD,Y
+P000980,Headphones,Electronics,Samsung,1138.59,EUR,Y
+P000981,Coffee Machine,Home,Dyson,405.69,EUR,Y
+P000982,Lipstick,Beauty,Garnier,153.45,USD,Y
+P000983,Vacuum Cleaner,Home,Bosch,484.07,EUR,Y
+P000984,Football,Sports,Reebok,358.31,EUR,Y
+P000985,Jacket,Clothing,Zara,191.91,GBP,N
+P000986,Body Lotion,Beauty,Dove,34.66,EUR,Y
+P000987,Desk,Home,Dyson,1396.31,GBP,N
+P000988,Dumbbells,Sports,Nike,578.09,EUR,Y
+P000989,Jacket,Clothing,Puma,300.98,EUR,Y
+P000990,Sneakers,Clothing,Zara,312.78,USD,Y
+P000991,Laptop,Electronics,Lenovo,854.32,GBP,Y
+P000992,Coffee Machine,Home,IKEA,583.53,EUR,N
+P000993,Dining Table,Home,Philips,1335.26,EUR,Y
+P000994,Coffee Machine,Home,IKEA,58.16,USD,Y
+P000995,Perfume,Beauty,Maybelline,91.08,USD,Y
+P000996,Lipstick,Beauty,L'Oreal,11.27,EUR,Y
+P000997,Dress,Clothing,Zara,196.37,GBP,Y
+P000998,Keyboard,Electronics,Dell,231.51,GBP,Y
+P000999,Perfume,Beauty,Garnier,168.71,GBP,Y
+P001000,Chair,Home,Siemens,720.61,USD,Y
