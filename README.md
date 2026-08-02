@@ -45,3 +45,49 @@ The objective of this project is to build a scalable Azure-based data platform t
 - Build analytics-ready Gold datasets
 - Create Power BI dashboards
 - Demonstrate enterprise Data Engineering best practices
+
+---
+
+## Solution Architecture
+
+The platform follows a modern Azure Lakehouse architecture using the Medallion pattern.
+
+```text
+Source Systems
+    |
+    |-- Website Customers
+    |-- Mobile Customers
+    |-- CRM Customers
+    |-- Store Customers
+    |-- Products
+    |-- Orders
+    |-- Payments
+    |-- Exchange Rates
+    |
+    v
+Azure Data Factory
+    |
+    v
+Azure Data Lake Storage Gen2
+    |
+    |-- Source
+    |-- Bronze
+    |-- Silver
+    |-- Gold
+    |
+    v
+Azure Databricks
+    |
+    |-- PySpark transformations
+    |-- Data quality checks
+    |-- Customer standardization
+    |-- Currency conversion
+    |-- Delta Lake tables
+    |
+    v
+Power BI
+    |
+    |-- Revenue analysis
+    |-- Customer analytics
+    |-- Product performance
+    |-- Payment monitoring
