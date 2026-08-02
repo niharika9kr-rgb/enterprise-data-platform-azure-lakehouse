@@ -1,14 +1,63 @@
 # Enterprise Data Platform – Azure Lakehouse
 
-## Project Overview
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-Orchestration-orange)
+![Azure Databricks](https://img.shields.io/badge/Databricks-Spark-red)
+![PySpark](https://img.shields.io/badge/PySpark-Data%20Processing-yellow)
+![Delta Lake](https://img.shields.io/badge/Delta-Lake-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![GitHub](https://img.shields.io/badge/Git-Version%20Control-black)
 
-This project demonstrates the design and implementation of an enterprise-scale Azure Lakehouse using the Medallion Architecture (Bronze, Silver, Gold).
+## Project Summary
 
-The platform simulates how a retail company ingests data from multiple operational systems, stores raw data in Azure Data Lake Storage Gen2, transforms it using Azure Databricks with PySpark, and delivers analytics-ready datasets for reporting in Power BI.
+This project simulates an enterprise retail data platform built on Microsoft Azure.
 
-Rather than building separate pipelines for every data source, the solution uses a reusable, parameterized Azure Data Factory pipeline that can ingest multiple datasets into the Bronze layer.
+The solution ingests data from multiple operational systems using a reusable Azure Data Factory pipeline, stores raw data in Azure Data Lake Storage Gen2, transforms it using Azure Databricks with PySpark, and prepares analytics-ready datasets following the Medallion Architecture (Bronze, Silver and Gold).
 
----
+The project is designed to demonstrate production-style Azure Data Engineering practices including reusable pipelines, scalable data ingestion, data quality validation, Delta Lake transformations and business reporting.
+
+## Project Statistics
+
+| Metric | Value |
+|--------|------:|
+| Source systems | 8 |
+| Datasets | 8 |
+| Records generated | 115,000+ |
+| Azure services | 4 |
+| Data pipeline | Generic parameterized pipeline |
+| Architecture | Medallion (Bronze / Silver / Gold) |
+| Programming language | Python |
+| Processing engine | PySpark |
+
+## Current Architecture
+
+```text
+Source Systems
+      │
+      ▼
+Azure Data Factory
+      │
+      ▼
+Azure Data Lake Storage Gen2
+      │
+      ▼
+Bronze Layer
+      │
+      ▼
+Azure Databricks (Next Phase)
+      │
+      ▼
+Silver Layer
+      │
+      ▼
+Gold Layer
+      │
+      ▼
+Power BI
+```
+
+
 
 ## Business Problem
 
@@ -91,3 +140,36 @@ Power BI
     |-- Customer analytics
     |-- Product performance
     |-- Payment monitoring
+
+## Project Roadmap
+
+### Completed
+
+- [x] Generate enterprise datasets
+- [x] Azure Data Lake Storage Gen2
+- [x] Azure Data Factory
+- [x] Generic ingestion pipeline
+- [x] Bronze layer
+
+### In Progress
+
+- [ ] Azure Databricks
+- [ ] Bronze → Silver transformations
+
+### Planned
+
+- [ ] Gold layer
+- [ ] Power BI dashboards
+- [ ] CI/CD
+- [ ] Automated data quality testing
+
+## Future Improvements
+
+- Implement incremental data loading
+- Add Change Data Capture (CDC)
+- Integrate Azure Key Vault
+- Implement Azure Monitor alerts
+- Add Azure DevOps CI/CD pipelines
+- Introduce unit and integration testing
+- Support Parquet and JSON ingestion
+- Add metadata-driven pipeline configuration
