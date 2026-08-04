@@ -308,12 +308,12 @@ enterprise-data-platform-azure-lakehouse/
 ├── architecture/
 │
 ├── data_generator/
-│   ├── generate_master_customers.py
-│   ├── generate_source_systems.py
-│   ├── generate_products.py
-│   ├── generate_orders.py
-│   ├── generate_payments.py
-│   ├── generate_exchange_rates.py
+│   ├── generate_master_customers.ipynb
+│   ├── generate_source_systems.ipynb
+│   ├── generate_products.ipynb
+│   ├── generate_orders.pipynb
+│   ├── generate_payments.ipynb
+│   ├── generate_exchange_rates.ipynb
 │   └── utils/
 │
 ├── datasets/
